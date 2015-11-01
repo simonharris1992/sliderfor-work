@@ -1,0 +1,17 @@
+.container-fluid{
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+}
+
+.header{
+	height: 150px;
+	text-align: center;
+}
+
+
+/*====================*/
+/*=== Other Styles ===*/
+/*====================*/
+.clear {
+	clear:both;
+}
